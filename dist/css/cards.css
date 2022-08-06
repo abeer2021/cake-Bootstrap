@@ -311,6 +311,12 @@ text-align: center;
   position:relative;
   left:20px;
 }
+#chef{
+  height:400px;
+  width:400px;
+  position:relative;
+  left:5px;
+}
 /* #menu-2{
 
   height:400px;
